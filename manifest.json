@@ -1,0 +1,9 @@
+{
+  "author": "yudjinn",
+  "name": "Easy Combat",
+  "version": "1.0.0",
+  "description": "Every monster dies in one hit and deals only 1 damage to the player.",
+  "minInstallerVersion": "0.14.1",
+  "manifestVersion": 1,
+  "requires_hooks": ["combat.damage", "player.incoming_damage"]
+}
